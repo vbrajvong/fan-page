@@ -1,0 +1,43 @@
+body { background-color: #F5F5DC; 
+background-image: url(smashbg.png); }
+h1 { background-color: #8B0000;
+ color: #E6E6FA; }
+h1 {	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 36px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 54px;}
+h2 { background-color: #8B0000;
+ color: #FFFFFF; 
+	font-family: 'Franklin Gothic';
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 33px; }
+h3 { background-color: #8B0000;
+ color: #FFFFFF;
+	font-family: 'Franklin Gothic';
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 33px; }
+li { background-color: #F5F5DC; 
+ color: #A52A2A; }
+p { background-color: #F5F5DC;
+ color: #A52A2A; }
+p {	font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 21.4286px; }
+footer {font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 10px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 54px;}
+ul { list-style-type: square; }
